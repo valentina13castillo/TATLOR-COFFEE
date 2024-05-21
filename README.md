@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
     <body style="background-color:powderpurple;">
 <head>
